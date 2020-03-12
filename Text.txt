@@ -1,0 +1,3 @@
+Ini adalah teks sebagai contoh yang akan digunkan 
+ke dalam program. Teks ini dibuat untuk program agar dapat 
+membaca file teks ini.
